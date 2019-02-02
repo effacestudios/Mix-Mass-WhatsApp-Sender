@@ -1,0 +1,22 @@
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\bin\Debug\MassWhatsAppSender - Bulk Sender.exe.config
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\bin\Debug\MassWhatsAppSender - Bulk Sender.exe
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\bin\Debug\MassWhatsAppSender - Bulk Sender.pdb
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\bin\Debug\WebDriver.dll
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\bin\Debug\WebDriver.xml
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\obj\Debug\MassWhatsAppSender - Bulk Sender.csprojAssemblyReference.cache
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\obj\Debug\MainWindow.g.cs
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\obj\Debug\App.g.cs
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\obj\Debug\MassWhatsAppSender - Bulk Sender_MarkupCompile.cache
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\obj\Debug\MassWhatsAppSender - Bulk Sender_MarkupCompile.lref
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\obj\Debug\MainWindow.baml
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\obj\Debug\MassWhatsAppSender - Bulk Sender.g.resources
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\obj\Debug\MassWhatsAppSender___Bulk_Sender.Properties.Resources.resources
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\obj\Debug\MassWhatsAppSender - Bulk Sender.csproj.GenerateResource.cache
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\obj\Debug\MassWhatsAppSender - Bulk Sender.csproj.CoreCompileInputs.cache
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\obj\Debug\MassWhatsAppSender - Bulk Sender.csproj.CopyComplete
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\obj\Debug\MassWhatsAppSender - Bulk Sender.exe
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\obj\Debug\MassWhatsAppSender - Bulk Sender.pdb
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\bin\Debug\IronPython.dll
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\bin\Debug\IronPython.Modules.dll
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\effacestudios\Documents\Visual Studio 2017\Projects\MassWhatsAppSender - Bulk Sender\MassWhatsAppSender - Bulk Sender\bin\Debug\Microsoft.Scripting.dll
